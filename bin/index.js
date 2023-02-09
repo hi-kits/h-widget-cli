@@ -1,11 +1,3 @@
-/*
- * @Descripttion: 
- * @version: 
- * @Author: liulina
- * @Date: 2022-06-07 16:27:09
- * @LastEditors: liulina
- * @LastEditTime: 2023-02-08 09:43:28
- */
 #!/usr/bin/env node
 
 // 请求 commander 库
